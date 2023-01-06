@@ -1,0 +1,9 @@
+{
+    "Name": "MySingingMonsters",
+    "Description": "Adds Mammott from My Singing Monsters",
+    "WorksOnVersion": "34.3",
+    "Version": "1.0.0",
+    "Icon": "mammoticon",
+    "RepoOwner": "000Diggity000",
+    "RepoName": "btd6-MSM"
+}
